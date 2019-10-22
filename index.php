@@ -1,7 +1,3 @@
-<?
-	
-	
-?>
 <!DOCTYPE HTML>
 	<html class="no-js" lang="en" dir="ltr">
 		<head>
